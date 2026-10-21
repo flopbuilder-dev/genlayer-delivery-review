@@ -1,0 +1,25 @@
+{
+  "checked_at_utc": "2026-10-21T20:40:20.116652+00:00",
+  "python": "3.12.14",
+  "genlayer-test": "0.29.2",
+  "genvm-linter": "0.11.0",
+  "pytest": "9.1.1",
+  "sdk_release": "v0.3.0-rc7",
+  "contract_runner": "1jb45aa8ynh2a9c9xn3b7qqh8sm5q93hwfp7jqmwsfhh8jpz09h6",
+  "sdk_bundle_sha256": "e218a1854214681560351051f76fe2b878545cf3409455ef372d57014a88ca67",
+  "contract_sha256": "b70cddf4c07fca2ea6889b32eb093c82f4f0217c3cc72397b6e725f1f7e47dee",
+  "direct_tests": {
+    "passed": 55,
+    "failed": 0,
+    "duration_seconds": 5.29,
+    "llm_outputs": "mocked fixtures"
+  },
+  "live_deployment": "finalized_success",
+  "live_inference": "one_finalized_happy_path_success",
+  "portal_submission": "not_submitted",
+  "reward_or_eligibility": "not_established",
+  "live_environment": "Studio / Studionet",
+  "live_contract": "0xD5C585E0f82ad85E7BCcb4401ABB4Ede807dc67b",
+  "live_leader_rotation_observed": true,
+  "live_account_binding": "disposable_sandbox_accounts_not_user_portal_wallet"
+}
