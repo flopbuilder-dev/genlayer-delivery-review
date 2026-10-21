@@ -1,0 +1,16 @@
+{
+  ".gitignore": "d4af9084a60262e26bdb805143877ff785a9dc39f78b51b660889b4605b75e05",
+  "README.md": "0b67936cd9125762b27404df7b4c1420ed36aef289dec28bd32bc1fdfcf5c2bb",
+  "contracts/delivery_review.py": "b70cddf4c07fca2ea6889b32eb093c82f4f0217c3cc72397b6e725f1f7e47dee",
+  "docs/SUBMISSION_DRAFT.md": "766932d987b74b1ef75cfbe38812ba497c6e42dd2845d8ee8dfe721da6ea5b9d",
+  "pyproject.toml": "f86b529005c87afce62aac694d1a4fd1f3411ea33b4039476d322590022e8500",
+  "requirements-lock.txt": "936b30a66b4c662af6f9fdb82a6b960cd215367b233b649dafac9cc4ff858597",
+  "requirements.txt": "9a408e892ed2a0c66a6a4a57d6bce527429a65a04e5d36b1fae6ff371f4a1466",
+  "tests/conftest.py": "a25ae53cc87d568e29c10ddecc657ae6b0e49e26ad4bf0b6d65b2045c352756d",
+  "tests/test_delivery_review.py": "73dbf560e606ea5fc17ece2bab4cf88e9655af95900bc9d0365a8a7a9618a972",
+  "tools/bootstrap_sdk.py": "a6ec73085bb4c507c69142a53e7b3cfb94f63e391048d924e7fe4758fab5a882",
+  "validation/REPORT.md": "dfbd49d146b1593fa727a5c3b540230daaa930415c89d3926ee2ac0d609596a7",
+  "validation/environment.json": "95d4767c6f51ab273faef1eb7fa40de8d49eab12653c6a8789cf4393ae74c234",
+  "validation/genvm-check.json": "d740506abece463dadf242d7d2d527ecfa786b9311e98f6d92c69c905efb484f",
+  "validation/pytest.xml": "ee286c71b5a381805438a0c0f5cf9fecc08327ace5971e2ff6300953b47f4d22"
+}
